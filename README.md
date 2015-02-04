@@ -1,1 +1,1 @@
-# Various Perl scripts crawling the web
+Box-office mining in Perl
